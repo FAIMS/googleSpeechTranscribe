@@ -1,0 +1,6 @@
+*.json
+*.flac
+resources/*.flac
+tmpOut/
+*.tsv
+*.wav
